@@ -1,0 +1,7 @@
+{
+  "name": "Angular Interview Pro",
+  "description": "A comprehensive interview preparation tool for Angular developers, featuring 300+ questions answered by an AI-powered mentor with deep architectural expertise. Includes real-time voice feedback and Google Search grounding for the latest framework updates.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
